@@ -74,17 +74,17 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = f"""
-Hello [🤗](https://telegra.ph/file/9717d7cfe0e057d56a6ee.jpg)! I Am ZarinaBot An Advnaced Group Manager Bot.
+Hello [🤗](https://telegra.ph/file/9c24313233ae3353c000b.jpg)! I Am ZarinaBot An Advnaced Group Manager Bot.
 
 For Support Visit @{SUPPORT_CHAT}🔥
 
-Click Here To Deploy Your Own Bot📁: [Source](https://github.com/CyberBoyAyush/ZarinaBot)
+Click Here To Deploy Your Own Bot📁: [Source](https://github.com/stylishsuryaa/ZarinaBot)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ Add Zarina To Group ➕️", url="t.me/ZarinaBot?startgroup=true"),
+            text="➕️ Add Zarina To Group ➕️", url="t.me/Zaynmalik_gc_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ🔥", callback_data="ZarinaBot_"),
@@ -97,17 +97,17 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="Dev💻", url="t.me/CyberBoyAyush"),
+            text="Dev💻", url="t.me/Suryaakumar"),
             InlineKeyboardButton(
-            text="Source📁", url=f"https://github.com/CyberBoyAyush/ZarinaBot"
+            text="Source📁", url=f"https://github.com/stylishsuryaa/ZarinaBot"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-Hello, I Am [ZarinaBot🙋‍♀️](https://telegra.ph/file/9717d7cfe0e057d56a6ee.jpg) 
-Source📁 : [Here](https://github.com/CyberBoyAyush/ZarinaBot)
+Hello, I Am [Zayn] (https://telegra.ph/file/9c24313233ae3353c000b.jpg) 
+Source📁 : [Here](https://github.com/stylishsuryaa/ZarinaBot)
 *Commands Available*:
  - /start: Star The Bot
  - /help: Help Commands!!
@@ -118,8 +118,7 @@ Source📁 : [Here](https://github.com/CyberBoyAyush/ZarinaBot)
    - in a group: will redirect you to pm, with all that chat's settings. 
 """
 
-ZarinaBot_IMG = "https://telegra.ph/file/9717d7cfe0e057d56a6ee.jpg"
-
+ZarinaBot_IMG = "https://telegra.ph/file/9c24313233ae3353c000b.jpg"
 DONATE_STRING = """Thanks For Considering Us To Donate Msg @CyberBoyAyushBot For Donations \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
